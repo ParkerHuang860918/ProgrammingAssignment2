@@ -24,7 +24,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
-## the second function is ti check if the inverse of matrix has been saved in the cached area, if there, return cached data, 
+## the second function is t0 check if the inverse of matrix has been saved in the cached area, if there, return cached data, 
 ## else calcualte the inverse of the new matrix
 cacheSolve <- function(x, ...) {
     ## Return a matrix that is the inverse of 'x'
